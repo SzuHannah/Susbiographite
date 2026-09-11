@@ -1,0 +1,137 @@
+scenario,pathway,material_code,price per quote_unit,quote_unit,price_$/kg,quote_year,note,ref,unit_cost,price_basis_unit
+s_c1,BC1,feedstock,60.0,$/short ton,0.06613865970006118,2023,1 short ton = 0.907185 tonne,"NREL, EIA",0.06840544300834941,kg
+s_c1,BC1,diesel,3.133,$/gallon,0.9729813664596273,2025,1 gallon diesel = 3.22 kg diesel,,0.9729813664596273,kg
+s_c1,BC1,electricity,8.62,cents/kwh,0.0862,2025,US: industrial electricity average 8.62 cents per kwh,https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a,0.0862,kWh
+s_c1,BC1,N2,1.145,$/L,1.4170792079207921,2025,N2 density: 0.808 kg/L:; 0.51-1.78$/L,The Price Of Liquid Nitrogen In The United States | Rutherford & Titan,1.4170792079207921,kg
+s_c1,BC1,natural gas,5.74,$/1000ft3,0.2027065205107922,2025,"NG density: 0.7-0.9 kg/m3, 1ft3 = 0.0283168 m3",United States Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),0.2027065205107922,m3
+s_c1,BC1,H2,1.5,$/kg,1.5,2024,1-2 $/kg for grey hydrogen,Grey Hydrogen all you need to know about it.,1.5252718245838024,kg
+s_c1,BC1,NiMo/Al2O3 catalyst,44444.0,$/t,44.444,2015,,"NREL, Jose",54.27178783301284,kg
+s_c1,BC1,ZrO2 catalyst,50000.0,$/t,50.0,2015,,"NREL, Jose",61.05637187585819,kg
+s_c1,BC1,Pt/Al2O3 catalyst,1436000.0,$/t,1436.0,2015,,"NREL, Jose",1753.5390002746474,kg
+s_c1,BC1,Ni/Al2O3 catalyst,11.62,$/kg,11.62,2025,10-50/kg according to gemini,Second Stage Steam Reforming Conversion From Methane To Hydrogen Autothermal Reforming Catalyst - Buy Second Stage Steam Reforming Conversion From Methane To Hydrogen Autothermal Reforming Catalyst 17*17*9mm Product on Alibaba.com,11.62,kg
+s_c1,BC1,water,5.56,$/1000 gallon,1.4687973033304187,2023,1 gallon = 3.78541 kg,Data and Information Used by WaterSense | US EPA,1.5191376825510923,m3
+s_c1,BC1,HCl,179.0,$/t,0.179,2015,,"NREL, Jose",0.21858181131557233,kg
+s_c1,BC1,Fe,550.0,$/t,0.55,2015,,"NREL, Jose",0.6716200906344402,kg
+s_c1,BC1,wwt,6.86,$/1000 gallon,0.0018122211332458043,2023,1 gallon = 3.78541 kg,Data and Information Used by WaterSense | US EPA,0.0018743317450180743,kg
+s_c1,BC1,biogasoline,1.84,$/gallon,0.7603305785123967,2025,1.79-1.9 $/gallon; 1 gallon = 2.42 kg gasoline,,0.7603305785123967,kg
+s_c1,BC1,biodiesel,5.2,$/gallon,1.6149068322981366,2025,4.95-5.45 $/gallon,Biodiesel – Market Intelligence | ProcurementIQ,1.6149068322981366,kg
+s_c1,BC1,bioSAF,4.89,$/gallon,1.6085526315789473,2025,"3.93 - 5.85 $/gallon, 1 gallon = 3.04 kg aviation fuel over one year",Daily Jet Fuel Price Comparison: Argus Sustainable vs. Conventional Jet Fuel | Airlines For America,1.6085526315789473,kg
+s_c1,BC1,bioH2,2.2,$/kg,2.2,2024,blue hydrogen: 1.5-2.9 $/kg,,2.2370653427229104,kg
+s_c1,BC1,graphite,0.0,0,0.0,2025,needs to be calculated,,0.0,kg
+s_c1,BC1,biochar,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c1,BC1,hytrtoil,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c1,BC1,hydrocarbon,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c1,BC1,hytrtaq,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c1,BC1,sand,45.74,$/t,0.04574,2024,,Jose,0.046510622170975416,kg
+s_c1,BC1,toluene,1296.0,$/t,1.296,2024,,Jose,1.3178348564404052,kg
+s_c1,BC1,H2S,1776.0,$/t,1.776,2024,,Jose,1.805921840307222,kg
+s_c1,BC1,NaOH,2.0,$/lb,4.409248840367555,2025,,Lye | Wholesale Lye (Sodium Hydroxide) | Bulk Apothecary,4.409248840367555,kg
+s_c1,BC1,boiler chemical,5557.64,$/t,5.55764,2024,,Jose,5.651274468786616,kg
+s_c1,BC1,cooling chemical,4.465,$/kg,4.465,2016,1.7842 - 2.27 $/lb equivalent to  1.7842 / 0.453592 ~ 2.27 / 0.453592 = $3.93 - 5 / kg,Techno-Economic Assessment for the Production of Hydrocarbon Fuels via Catalytic Upgrading of Furans,5.405383921581967,kg
+s_c1,BC1,Ar,0.55,$/kg,0.55,2025,,Argon price index - businessanalytiq,0.55,kg
+s_c1,BC1,coke,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c1,BC1,MgAlO catalyst,57.5,$/kg,57.5,2025,35-80 $/kg,Nickel Based Alumina Ni Al2o3 Catalyst Catalyst Used For Methanation Catalyst For Co Conversion Or Removal - Buy Nickel Ni Based Alumina Al2o3 Catalyst Ni Based Alumina Catalyst methanation Catalyst Gamma Alumina Catalyst Nickel Oxide Catalyst Alumina Catalyst Pellet nimo/al2o3 ni/al2o3 como/al2o3catalyst Product on Alibaba.com,57.5,kg
+s_c1,BC1,solid disposal,0.033,$/kg,0.033,2024,solid and ash disposal are the same,Jose SI,0.033555980140843655,kg
+s_c1,BC1,Ru/C catalyst,69.0,$/kg,69.0,2025,$147-150/10g; $903/100g; $ 69/kg,"Ru/c | Sigma-Aldrich, https://www.alibaba.com/product-detail/Supply-Ruthenium-on-activated-carbon-5_1600973398011.html",69.0,kg
+s_c2,BC2,feedstock,60.0,$/short ton,0.06613865970006118,2023,1 short ton = 0.907185 tonne,"NREL, EIA",0.06840544300834941,kg
+s_c2,BC2,diesel,3.133,$/gallon,0.9729813664596273,2025,1 gallon diesel = 3.22 kg diesel,,0.9729813664596273,kg
+s_c2,BC2,electricity,8.62,cents/kwh,0.0862,2025,US: industrial electricity average 8.62 cents per kwh,https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a,0.0862,kWh
+s_c2,BC2,N2,1.145,$/L,1.4170792079207921,2025,N2 density: 0.808 kg/L:; 0.51-1.78$/L,The Price Of Liquid Nitrogen In The United States | Rutherford & Titan,1.4170792079207921,kg
+s_c2,BC2,natural gas,5.74,$/1000ft3,0.2027065205107922,2025,"NG density: 0.7-0.9 kg/m3, 1ft3 = 0.0283168 m3",United States Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),0.2027065205107922,m3
+s_c2,BC2,H2,1.5,$/kg,1.5,2024,1-2 $/kg for grey hydrogen,Grey Hydrogen all you need to know about it.,1.5252718245838024,kg
+s_c2,BC2,NiMo/Al2O3 catalyst,44444.0,$/t,44.444,2015,,"NREL, Jose",54.27178783301284,kg
+s_c2,BC2,ZrO2 catalyst,50000.0,$/t,50.0,2015,,"NREL, Jose",61.05637187585819,kg
+s_c2,BC2,Pt/Al2O3 catalyst,1436000.0,$/t,1436.0,2015,,"NREL, Jose",1753.5390002746474,kg
+s_c2,BC2,Ni/Al2O3 catalyst,11.62,$/kg,11.62,2025,10-50/kg according to gemini,Second Stage Steam Reforming Conversion From Methane To Hydrogen Autothermal Reforming Catalyst - Buy Second Stage Steam Reforming Conversion From Methane To Hydrogen Autothermal Reforming Catalyst 17*17*9mm Product on Alibaba.com,11.62,kg
+s_c2,BC2,water,5.56,$/1000 gallon,1.4687973033304187,2023,1 gallon = 3.78541 kg,Data and Information Used by WaterSense | US EPA,1.5191376825510923,m3
+s_c2,BC2,HCl,179.0,$/t,0.179,2015,,"NREL, Jose",0.21858181131557233,kg
+s_c2,BC2,Fe,550.0,$/t,0.55,2015,,"NREL, Jose",0.6716200906344402,kg
+s_c2,BC2,wwt,6.86,$/1000 gallon,0.0018122211332458043,2023,1 gallon = 3.78541 kg,Data and Information Used by WaterSense | US EPA,0.0018743317450180743,kg
+s_c2,BC2,biogasoline,1.84,$/gallon,0.7603305785123967,2025,1.79-1.9 $/gallon; 1 gallon = 2.42 kg gasoline,,0.7603305785123967,kg
+s_c2,BC2,biodiesel,5.2,$/gallon,1.6149068322981366,2025,4.95-5.45 $/gallon,Biodiesel – Market Intelligence | ProcurementIQ,1.6149068322981366,kg
+s_c2,BC2,bioSAF,4.89,$/gallon,1.6085526315789473,2025,"3.93 - 5.85 $/gallon, 1 gallon = 3.04 kg aviation fuel over one year",Daily Jet Fuel Price Comparison: Argus Sustainable vs. Conventional Jet Fuel | Airlines For America,1.6085526315789473,kg
+s_c2,BC2,bioH2,2.2,$/kg,2.2,2024,blue hydrogen: 1.5-2.9 $/kg,,2.2370653427229104,kg
+s_c2,BC2,graphite,0.0,0,0.0,2025,needs to be calculated,,0.0,kg
+s_c2,BC2,biochar,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c2,BC2,hytrtoil,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c2,BC2,hydrocarbon,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c2,BC2,hytrtaq,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c2,BC2,sand,45.74,$/t,0.04574,2024,,Jose,0.046510622170975416,kg
+s_c2,BC2,toluene,1296.0,$/t,1.296,2024,,Jose,1.3178348564404052,kg
+s_c2,BC2,H2S,1776.0,$/t,1.776,2024,,Jose,1.805921840307222,kg
+s_c2,BC2,NaOH,2.0,$/lb,4.409248840367555,2025,,Lye | Wholesale Lye (Sodium Hydroxide) | Bulk Apothecary,4.409248840367555,kg
+s_c2,BC2,boiler chemical,5557.64,$/t,5.55764,2024,,Jose,5.651274468786616,kg
+s_c2,BC2,cooling chemical,4.465,$/kg,4.465,2016,1.7842 - 2.27 $/lb equivalent to  1.7842 / 0.453592 ~ 2.27 / 0.453592 = $3.93 - 5 / kg,Techno-Economic Assessment for the Production of Hydrocarbon Fuels via Catalytic Upgrading of Furans,5.405383921581967,kg
+s_c2,BC2,Ar,0.55,$/kg,0.55,2025,,Argon price index - businessanalytiq,0.55,kg
+s_c2,BC2,coke,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_c2,BC2,MgAlO catalyst,57.5,$/kg,57.5,2025,35-80 $/kg,Nickel Based Alumina Ni Al2o3 Catalyst Catalyst Used For Methanation Catalyst For Co Conversion Or Removal - Buy Nickel Ni Based Alumina Al2o3 Catalyst Ni Based Alumina Catalyst methanation Catalyst Gamma Alumina Catalyst Nickel Oxide Catalyst Alumina Catalyst Pellet nimo/al2o3 ni/al2o3 como/al2o3catalyst Product on Alibaba.com,57.5,kg
+s_c2,BC2,solid disposal,0.033,$/kg,0.033,2024,solid and ash disposal are the same,Jose SI,0.033555980140843655,kg
+s_c2,BC2,Ru/C catalyst,69.0,$/kg,69.0,2025,$147-150/10g; $903/100g; $ 69/kg,"Ru/c | Sigma-Aldrich, https://www.alibaba.com/product-detail/Supply-Ruthenium-on-activated-carbon-5_1600973398011.html",69.0,kg
+s_o1,BO1,feedstock,60.0,$/short ton,0.06613865970006118,2023,1 short ton = 0.907185 tonne,"NREL, EIA",0.06840544300834941,kg
+s_o1,BO1,diesel,3.133,$/gallon,0.9729813664596273,2025,1 gallon diesel = 3.22 kg diesel,,0.9729813664596273,kg
+s_o1,BO1,electricity,8.62,cents/kwh,0.0862,2025,US: industrial electricity average 8.62 cents per kwh,https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a,0.0862,kWh
+s_o1,BO1,N2,1.145,$/L,1.4170792079207921,2025,N2 density: 0.808 kg/L:; 0.51-1.78$/L,The Price Of Liquid Nitrogen In The United States | Rutherford & Titan,1.4170792079207921,kg
+s_o1,BO1,natural gas,5.74,$/1000ft3,0.2027065205107922,2025,"NG density: 0.7-0.9 kg/m3, 1ft3 = 0.0283168 m3",United States Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),0.2027065205107922,m3
+s_o1,BO1,H2,1.5,$/kg,1.5,2024,1-2 $/kg for grey hydrogen,Grey Hydrogen all you need to know about it.,1.5252718245838024,kg
+s_o1,BO1,NiMo/Al2O3 catalyst,44444.0,$/t,44.444,2015,,"NREL, Jose",54.27178783301284,kg
+s_o1,BO1,ZrO2 catalyst,50000.0,$/t,50.0,2015,,"NREL, Jose",61.05637187585819,kg
+s_o1,BO1,Pt/Al2O3 catalyst,1436000.0,$/t,1436.0,2015,,"NREL, Jose",1753.5390002746474,kg
+s_o1,BO1,Ni/Al2O3 catalyst,11.62,$/kg,11.62,2025,10-50/kg according to gemini,Second Stage Steam Reforming Conversion From Methane To Hydrogen Autothermal Reforming Catalyst - Buy Second Stage Steam Reforming Conversion From Methane To Hydrogen Autothermal Reforming Catalyst 17*17*9mm Product on Alibaba.com,11.62,kg
+s_o1,BO1,water,5.56,$/1000 gallon,1.4687973033304187,2023,1 gallon = 3.78541 kg,Data and Information Used by WaterSense | US EPA,1.5191376825510923,m3
+s_o1,BO1,HCl,179.0,$/t,0.179,2015,,"NREL, Jose",0.21858181131557233,kg
+s_o1,BO1,Fe,550.0,$/t,0.55,2015,,"NREL, Jose",0.6716200906344402,kg
+s_o1,BO1,wwt,6.86,$/1000 gallon,0.0018122211332458043,2023,1 gallon = 3.78541 kg,Data and Information Used by WaterSense | US EPA,0.0018743317450180743,kg
+s_o1,BO1,biogasoline,1.84,$/gallon,0.7603305785123967,2025,1.79-1.9 $/gallon; 1 gallon = 2.42 kg gasoline,,0.7603305785123967,kg
+s_o1,BO1,biodiesel,5.2,$/gallon,1.6149068322981366,2025,4.95-5.45 $/gallon,Biodiesel – Market Intelligence | ProcurementIQ,1.6149068322981366,kg
+s_o1,BO1,bioSAF,4.89,$/gallon,1.6085526315789473,2025,"3.93 - 5.85 $/gallon, 1 gallon = 3.04 kg aviation fuel over one year",Daily Jet Fuel Price Comparison: Argus Sustainable vs. Conventional Jet Fuel | Airlines For America,1.6085526315789473,kg
+s_o1,BO1,bioH2,2.2,$/kg,2.2,2024,blue hydrogen: 1.5-2.9 $/kg,,2.2370653427229104,kg
+s_o1,BO1,graphite,0.0,0,0.0,2025,needs to be calculated,,0.0,kg
+s_o1,BO1,biochar,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o1,BO1,hytrtoil,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o1,BO1,hydrocarbon,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o1,BO1,hytrtaq,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o1,BO1,sand,45.74,$/t,0.04574,2024,,Jose,0.046510622170975416,kg
+s_o1,BO1,toluene,1296.0,$/t,1.296,2024,,Jose,1.3178348564404052,kg
+s_o1,BO1,H2S,1776.0,$/t,1.776,2024,,Jose,1.805921840307222,kg
+s_o1,BO1,NaOH,2.0,$/lb,4.409248840367555,2025,,Lye | Wholesale Lye (Sodium Hydroxide) | Bulk Apothecary,4.409248840367555,kg
+s_o1,BO1,boiler chemical,5557.64,$/t,5.55764,2024,,Jose,5.651274468786616,kg
+s_o1,BO1,cooling chemical,4.465,$/kg,4.465,2016,1.7842 - 2.27 $/lb equivalent to  1.7842 / 0.453592 ~ 2.27 / 0.453592 = $3.93 - 5 / kg,Techno-Economic Assessment for the Production of Hydrocarbon Fuels via Catalytic Upgrading of Furans,5.405383921581967,kg
+s_o1,BO1,Ar,0.55,$/kg,0.55,2025,,Argon price index - businessanalytiq,0.55,kg
+s_o1,BO1,coke,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o1,BO1,MgAlO catalyst,57.5,$/kg,57.5,2025,35-80 $/kg,Nickel Based Alumina Ni Al2o3 Catalyst Catalyst Used For Methanation Catalyst For Co Conversion Or Removal - Buy Nickel Ni Based Alumina Al2o3 Catalyst Ni Based Alumina Catalyst methanation Catalyst Gamma Alumina Catalyst Nickel Oxide Catalyst Alumina Catalyst Pellet nimo/al2o3 ni/al2o3 como/al2o3catalyst Product on Alibaba.com,57.5,kg
+s_o1,BO1,solid disposal,0.033,$/kg,0.033,2024,solid and ash disposal are the same,Jose SI,0.033555980140843655,kg
+s_o1,BO1,Ru/C catalyst,69.0,$/kg,69.0,2025,$147-150/10g; $903/100g; $ 69/kg,"Ru/c | Sigma-Aldrich, https://www.alibaba.com/product-detail/Supply-Ruthenium-on-activated-carbon-5_1600973398011.html",69.0,kg
+s_o2,BO2,feedstock,60.0,$/short ton,0.06613865970006118,2023,1 short ton = 0.907185 tonne,"NREL, EIA",0.06840544300834941,kg
+s_o2,BO2,diesel,3.133,$/gallon,0.9729813664596273,2025,1 gallon diesel = 3.22 kg diesel,,0.9729813664596273,kg
+s_o2,BO2,electricity,8.62,cents/kwh,0.0862,2025,US: industrial electricity average 8.62 cents per kwh,https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a,0.0862,kWh
+s_o2,BO2,N2,1.145,$/L,1.4170792079207921,2025,N2 density: 0.808 kg/L:; 0.51-1.78$/L,The Price Of Liquid Nitrogen In The United States | Rutherford & Titan,1.4170792079207921,kg
+s_o2,BO2,natural gas,5.74,$/1000ft3,0.2027065205107922,2025,"NG density: 0.7-0.9 kg/m3, 1ft3 = 0.0283168 m3",United States Natural Gas Industrial Price (Dollars per Thousand Cubic Feet),0.2027065205107922,m3
+s_o2,BO2,H2,1.5,$/kg,1.5,2024,1-2 $/kg for grey hydrogen,Grey Hydrogen all you need to know about it.,1.5252718245838024,kg
+s_o2,BO2,NiMo/Al2O3 catalyst,44444.0,$/t,44.444,2015,,"NREL, Jose",54.27178783301284,kg
+s_o2,BO2,ZrO2 catalyst,50000.0,$/t,50.0,2015,,"NREL, Jose",61.05637187585819,kg
+s_o2,BO2,Pt/Al2O3 catalyst,1436000.0,$/t,1436.0,2015,,"NREL, Jose",1753.5390002746474,kg
+s_o2,BO2,Ni/Al2O3 catalyst,11.62,$/kg,11.62,2025,10-50/kg according to gemini,Second Stage Steam Reforming Conversion From Methane To Hydrogen Autothermal Reforming Catalyst - Buy Second Stage Steam Reforming Conversion From Methane To Hydrogen Autothermal Reforming Catalyst 17*17*9mm Product on Alibaba.com,11.62,kg
+s_o2,BO2,water,5.56,$/1000 gallon,1.4687973033304187,2023,1 gallon = 3.78541 kg,Data and Information Used by WaterSense | US EPA,1.5191376825510923,m3
+s_o2,BO2,HCl,179.0,$/t,0.179,2015,,"NREL, Jose",0.21858181131557233,kg
+s_o2,BO2,Fe,550.0,$/t,0.55,2015,,"NREL, Jose",0.6716200906344402,kg
+s_o2,BO2,wwt,6.86,$/1000 gallon,0.0018122211332458043,2023,1 gallon = 3.78541 kg,Data and Information Used by WaterSense | US EPA,0.0018743317450180743,kg
+s_o2,BO2,biogasoline,1.84,$/gallon,0.7603305785123967,2025,1.79-1.9 $/gallon; 1 gallon = 2.42 kg gasoline,,0.7603305785123967,kg
+s_o2,BO2,biodiesel,5.2,$/gallon,1.6149068322981366,2025,4.95-5.45 $/gallon,Biodiesel – Market Intelligence | ProcurementIQ,1.6149068322981366,kg
+s_o2,BO2,bioSAF,4.89,$/gallon,1.6085526315789473,2025,"3.93 - 5.85 $/gallon, 1 gallon = 3.04 kg aviation fuel over one year",Daily Jet Fuel Price Comparison: Argus Sustainable vs. Conventional Jet Fuel | Airlines For America,1.6085526315789473,kg
+s_o2,BO2,bioH2,2.2,$/kg,2.2,2024,blue hydrogen: 1.5-2.9 $/kg,,2.2370653427229104,kg
+s_o2,BO2,graphite,0.0,0,0.0,2025,needs to be calculated,,0.0,kg
+s_o2,BO2,biochar,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o2,BO2,hytrtoil,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o2,BO2,hydrocarbon,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o2,BO2,hytrtaq,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o2,BO2,sand,45.74,$/t,0.04574,2024,,Jose,0.046510622170975416,kg
+s_o2,BO2,toluene,1296.0,$/t,1.296,2024,,Jose,1.3178348564404052,kg
+s_o2,BO2,H2S,1776.0,$/t,1.776,2024,,Jose,1.805921840307222,kg
+s_o2,BO2,NaOH,2.0,$/lb,4.409248840367555,2025,,Lye | Wholesale Lye (Sodium Hydroxide) | Bulk Apothecary,4.409248840367555,kg
+s_o2,BO2,boiler chemical,5557.64,$/t,5.55764,2024,,Jose,5.651274468786616,kg
+s_o2,BO2,cooling chemical,4.465,$/kg,4.465,2016,1.7842 - 2.27 $/lb equivalent to  1.7842 / 0.453592 ~ 2.27 / 0.453592 = $3.93 - 5 / kg,Techno-Economic Assessment for the Production of Hydrocarbon Fuels via Catalytic Upgrading of Furans,5.405383921581967,kg
+s_o2,BO2,Ar,0.55,$/kg,0.55,2025,,Argon price index - businessanalytiq,0.55,kg
+s_o2,BO2,coke,0.0,0,0.0,2025,"no need to calculate, intermediate product",,0.0,kg
+s_o2,BO2,MgAlO catalyst,57.5,$/kg,57.5,2025,35-80 $/kg,Nickel Based Alumina Ni Al2o3 Catalyst Catalyst Used For Methanation Catalyst For Co Conversion Or Removal - Buy Nickel Ni Based Alumina Al2o3 Catalyst Ni Based Alumina Catalyst methanation Catalyst Gamma Alumina Catalyst Nickel Oxide Catalyst Alumina Catalyst Pellet nimo/al2o3 ni/al2o3 como/al2o3catalyst Product on Alibaba.com,57.5,kg
+s_o2,BO2,solid disposal,0.033,$/kg,0.033,2024,solid and ash disposal are the same,Jose SI,0.033555980140843655,kg
+s_o2,BO2,Ru/C catalyst,69.0,$/kg,69.0,2025,$147-150/10g; $903/100g; $ 69/kg,"Ru/c | Sigma-Aldrich, https://www.alibaba.com/product-detail/Supply-Ruthenium-on-activated-carbon-5_1600973398011.html",69.0,kg
