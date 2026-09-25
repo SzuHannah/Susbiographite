@@ -1,0 +1,13 @@
+{
+  "note": "Hashes only; the private/licensed factor files are not distributed in the public repository.",
+  "files": {
+    "paper_lcia_factors.csv": {
+      "sha256": "2d25e2182b98b71c5a43f1104846fb74c4dfca83efa60b0cb508dd8c6abdd4b5",
+      "size_bytes": 504265
+    },
+    "paper_regional_electricity.csv": {
+      "sha256": "26cb6e128849a6e61f7246ed8a51b6b3df1acf72cd84cdbfc621061f2ad7f1fe",
+      "size_bytes": 9182
+    }
+  }
+}

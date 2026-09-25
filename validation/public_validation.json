@@ -1,0 +1,49 @@
+{
+  "restricted_factor_files_absent": true,
+  "restricted_factor_files_found": [],
+  "factor_template_rows": 978,
+  "factor_template_blank_values": 978,
+  "public_fuel_rows": 114,
+  "public_fuel_factor_values_complete": true,
+  "tea_smoke_returncode": 0,
+  "tea_smoke_stdout_tail": "{\n  \"tea_rows\": 4,\n  \"tea_msp_max_abs_diff\": 1.7763568394002505e-15,\n  \"passed\": true\n}",
+  "tea_smoke_pass": true,
+  "notebooks": {
+    "01_deterministic.ipynb": {
+      "code_cells": 23,
+      "executed": 23,
+      "with_outputs": 23
+    },
+    "01b_export_tables.ipynb": {
+      "code_cells": 14,
+      "executed": 14,
+      "with_outputs": 14
+    },
+    "02_uncertainty.ipynb": {
+      "code_cells": 23,
+      "executed": 23,
+      "with_outputs": 23
+    },
+    "03_spatial.ipynb": {
+      "code_cells": 18,
+      "executed": 18,
+      "with_outputs": 17
+    },
+    "03b_spatial_figures.ipynb": {
+      "code_cells": 14,
+      "executed": 14,
+      "with_outputs": 11
+    },
+    "04_market_gap.ipynb": {
+      "code_cells": 6,
+      "executed": 6,
+      "with_outputs": 6
+    },
+    "04b_joint_sensitivity.ipynb": {
+      "code_cells": 14,
+      "executed": 14,
+      "with_outputs": 14
+    }
+  },
+  "passed": true
+}

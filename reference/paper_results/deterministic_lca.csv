@@ -1,0 +1,25 @@
+scenario,pathway,impact_category,impact_unit,value
+s_c1,BC1,climate change,kg CO2-Eq,5.191801157627583
+s_c1,BC1,acidification,kg SO2-Eq,0.0191649856160212
+s_c1,BC1,ecotoxicity: freshwater,CTUe,95.93923143548308
+s_c1,BC1,eutrophication,kg N-Eq,0.0242800140317065
+s_c1,BC1,particulate matter formation,PM2.5-Eq,0.0068671343077569
+s_c1,BC1,photochemical oxidant formation,kg O3-Eq,0.2819699033253365
+s_c2,BC2,climate change,kg CO2-Eq,5.224074825573572
+s_c2,BC2,acidification,kg SO2-Eq,0.0169949113273266
+s_c2,BC2,ecotoxicity: freshwater,CTUe,73.03242360721993
+s_c2,BC2,eutrophication,kg N-Eq,0.018822635298305
+s_c2,BC2,particulate matter formation,PM2.5-Eq,0.0053789469684976
+s_c2,BC2,photochemical oxidant formation,kg O3-Eq,0.2978726213470504
+s_o1,BO1,climate change,kg CO2-Eq,6.5942216620691685
+s_o1,BO1,acidification,kg SO2-Eq,0.0226041450457848
+s_o1,BO1,ecotoxicity: freshwater,CTUe,96.91456309187492
+s_o1,BO1,eutrophication,kg N-Eq,0.0262888340160403
+s_o1,BO1,particulate matter formation,PM2.5-Eq,0.0066708170106975
+s_o1,BO1,photochemical oxidant formation,kg O3-Eq,0.398157496766714
+s_o2,BO2,climate change,kg CO2-Eq,3.5715727402355086
+s_o2,BO2,acidification,kg SO2-Eq,0.0123782524470125
+s_o2,BO2,ecotoxicity: freshwater,CTUe,53.65186800482912
+s_o2,BO2,eutrophication,kg N-Eq,0.0144892588382147
+s_o2,BO2,particulate matter formation,PM2.5-Eq,0.0036698486308199
+s_o2,BO2,photochemical oxidant formation,kg O3-Eq,0.2156651947337584

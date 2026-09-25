@@ -1,0 +1,2 @@
+reference,baseline,low,high,unit,geography,price_year,source,ref,note
+US_industrial,0.0862,0.0588,0.2215,USD/kWh,U.S.,2025,EIA_and_project_selected_range,https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a,Authoritative project electricity reference approved 2026-08-24. Baseline = 8.62 cents/kWh national industrial value; uncertainty/frontier range = 5.88-22.15 cents/kWh. National deterministic and uncertainty workflows read this row; spatial analysis uses state-specific electricity prices.

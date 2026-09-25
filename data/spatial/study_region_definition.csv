@@ -1,0 +1,52 @@
+state,region,region_order
+AK,Pacific,1
+AL,Eastern,5
+AR,Eastern,5
+AZ,Western+Texas,2
+CA,Pacific,1
+CO,Western+Texas,2
+CT,Northeast coastal,6
+DC,Eastern,5
+DE,Eastern,5
+FL,Eastern,5
+GA,Eastern,5
+HI,Pacific,1
+IA,Upper,4
+ID,Western+Texas,2
+IL,Eastern,5
+IN,Eastern,5
+KS,Central,3
+KY,Eastern,5
+LA,Eastern,5
+MA,Northeast coastal,6
+MD,Eastern,5
+ME,Northeast coastal,6
+MI,Eastern,5
+MN,Upper,4
+MO,Eastern,5
+MS,Eastern,5
+MT,Western+Texas,2
+NC,Eastern,5
+ND,Upper,4
+NE,Central,3
+NH,Northeast coastal,6
+NJ,Eastern,5
+NM,Western+Texas,2
+NV,Western+Texas,2
+NY,Eastern,5
+OH,Eastern,5
+OK,Central,3
+OR,Western+Texas,2
+PA,Eastern,5
+RI,Northeast coastal,6
+SC,Eastern,5
+SD,Upper,4
+TN,Eastern,5
+TX,Western+Texas,2
+UT,Western+Texas,2
+VA,Eastern,5
+VT,Northeast coastal,6
+WA,Western+Texas,2
+WI,Upper,4
+WV,Eastern,5
+WY,Western+Texas,2

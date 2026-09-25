@@ -1,0 +1,21 @@
+{
+  "release": "biographite-github-public-v1.0.0",
+  "date": "2026-09-25",
+  "file_count": 117,
+  "size_bytes": 31761546,
+  "public_validation": "PASS",
+  "paper_replay_with_private_factor_bundle": "PASS",
+  "paper_replay_report": {
+    "tea_rows": 4,
+    "tea_msp_max_abs_diff": 1.7763568394002505e-15,
+    "deterministic_lca_rows": 24,
+    "deterministic_lca_max_abs_diff": 4.263256414560601e-14,
+    "state_lca_rows": 204,
+    "state_lca_max_abs_diff": 1.1226575225009583e-12,
+    "state_slcc_synthetic_max_abs_diff": 1.8118839761882555e-12,
+    "state_slcc_natural_max_abs_diff": 3.097966327914037e-12,
+    "passed": true
+  },
+  "private_factor_files_distributed": false,
+  "executed_notebooks": 7
+}

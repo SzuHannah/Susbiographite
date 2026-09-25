@@ -1,0 +1,79 @@
+impact_category,pathway_id,pathway,value,type,sub_type
+Ozone depletion,electrochemical_lab_scale,Electrochemical (Lab Scale),7.35E-07,market_lab,market_new
+Global warming,electrochemical_lab_scale,Electrochemical (Lab Scale),1.682,market_lab,market_new
+Smog,electrochemical_lab_scale,Electrochemical (Lab Scale),0.1306,market_lab,market_new
+Acidification,electrochemical_lab_scale,Electrochemical (Lab Scale),0.01185,market_lab,market_new
+Eutrophication,electrochemical_lab_scale,Electrochemical (Lab Scale),0.003932,market_lab,market_new
+Carcinogenics,electrochemical_lab_scale,Electrochemical (Lab Scale),1.06E-07,market_lab,market_new
+Non carcinogenics,electrochemical_lab_scale,Electrochemical (Lab Scale),3.51E-07,market_lab,market_new
+Respiratory effects,electrochemical_lab_scale,Electrochemical (Lab Scale),0.001581,market_lab,market_new
+Ecotoxicity,electrochemical_lab_scale,Electrochemical (Lab Scale),16.92,market_lab,market_new
+Fossil fuel depletion,electrochemical_lab_scale,Electrochemical (Lab Scale),6.492,market_lab,market_new
+Ozone depletion,electrochemical_industrial_scale,Electrochemical (Industrial Scale),7.14E-07,market_pilot,market_new
+Global warming,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.7001,market_pilot,market_new
+Smog,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.05845,market_pilot,market_new
+Acidification,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.005805,market_pilot,market_new
+Eutrophication,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.001788,market_pilot,market_new
+Carcinogenics,electrochemical_industrial_scale,Electrochemical (Industrial Scale),3.72E-08,market_pilot,market_new
+Non carcinogenics,electrochemical_industrial_scale,Electrochemical (Industrial Scale),1.07E-07,market_pilot,market_new
+Respiratory effects,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.0006647,market_pilot,market_new
+Ecotoxicity,electrochemical_industrial_scale,Electrochemical (Industrial Scale),4.735,market_pilot,market_new
+Fossil fuel depletion,electrochemical_industrial_scale,Electrochemical (Industrial Scale),6.211,market_pilot,market_new
+Ozone depletion,electrochemical_industrial_scale,Electrochemical (Industrial Scale),5.11E-08,market_pilot,market_new_us
+Global warming,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.88885387,market_pilot,market_new_us
+Smog,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.066589597,market_pilot,market_new_us
+Acidification,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.004278718,market_pilot,market_new_us
+Eutrophication,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.001522518,market_pilot,market_new_us
+Carcinogenics,electrochemical_industrial_scale,Electrochemical (Industrial Scale),5.46E-08,market_pilot,market_new_us
+Non carcinogenics,electrochemical_industrial_scale,Electrochemical (Industrial Scale),1.13E-07,market_pilot,market_new_us
+Respiratory effects,electrochemical_industrial_scale,Electrochemical (Industrial Scale),0.000628552,market_pilot,market_new_us
+Ecotoxicity,electrochemical_industrial_scale,Electrochemical (Industrial Scale),5.569988452,market_pilot,market_new_us
+Ozone depletion,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),3.72E-08,market_biomass,market_new_biomass
+Global warming,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),1.532,market_biomass,market_new_biomass
+Smog,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),3.043,market_biomass,market_new_biomass
+Acidification,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),0.008042,market_biomass,market_new_biomass
+Eutrophication,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),0.01704,market_biomass,market_new_biomass
+Carcinogenics,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),7.24E-07,market_biomass,market_new_biomass
+Non carcinogenics,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),1.34E-06,market_biomass,market_new_biomass
+Respiratory effects,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),0.02765,market_biomass,market_new_biomass
+Ecotoxicity,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),22.21,market_biomass,market_new_biomass
+Fossil fuel depletion,electrochemical_industrial_with_biomass,Electrochemical (Industrial with Biomass),0.7879,market_biomass,market_new_biomass
+Ozone depletion,acheson_process_argonne,Acheson Process (Argonne),7.66E-07,market_current,market_synthetic
+Global warming,acheson_process_argonne,Acheson Process (Argonne),5.448,market_current,market_synthetic
+Smog,acheson_process_argonne,Acheson Process (Argonne),0.4109,market_current,market_synthetic
+Acidification,acheson_process_argonne,Acheson Process (Argonne),0.03213,market_current,market_synthetic
+Eutrophication,acheson_process_argonne,Acheson Process (Argonne),0.01097,market_current,market_synthetic
+Carcinogenics,acheson_process_argonne,Acheson Process (Argonne),2.43E-07,market_current,market_synthetic
+Non carcinogenics,acheson_process_argonne,Acheson Process (Argonne),8.19E-07,market_current,market_synthetic
+Respiratory effects,acheson_process_argonne,Acheson Process (Argonne),0.005083,market_current,market_synthetic
+Ecotoxicity,acheson_process_argonne,Acheson Process (Argonne),29.63,market_current,market_synthetic
+Fossil fuel depletion,acheson_process_argonne,Acheson Process (Argonne),7.013,market_current,market_synthetic
+Ozone depletion,acheson_process_us,Acheson Process (Argonne),7.66E-07,market_current,market_synthetic
+Global warming,acheson_process_us,Acheson Process (US),4.290369554,market_current,market_synthetic_us
+Smog,acheson_process_us,Acheson Process (US),0.399940238,market_current,market_synthetic_us
+Acidification,acheson_process_us,Acheson Process (US),0.08194983,market_current,market_synthetic_us
+Eutrophication,acheson_process_us,Acheson Process (US),0.017499439,market_current,market_synthetic_us
+Carcinogenics,acheson_process_us,Acheson Process (US),2.96E-07,market_current,market_synthetic_us
+Non carcinogenics,acheson_process_us,Acheson Process (US),8.46E-07,market_current,market_synthetic_us
+Respiratory effects,acheson_process_us,Acheson Process (US),0.012831031,market_current,market_synthetic_us
+Ecotoxicity,acheson_process_us,Acheson Process (US),40.2277542,market_current,market_synthetic_us
+Ozone depletion,acheson_process_us,Acheson Process (US),9.42E-08,market_current,market_synthetic_us
+Ozone depletion,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),1.57E-07,market_natural,market_natural
+Global warming,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),4.952,market_natural,market_natural
+Smog,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),0.3454,market_natural,market_natural
+Acidification,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),0.03353,market_natural,market_natural
+Eutrophication,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),0.006963,market_natural,market_natural
+Carcinogenics,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),1.93E-07,market_natural,market_natural
+Non carcinogenics,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),6.98E-07,market_natural,market_natural
+Respiratory effects,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),0.003886,market_natural,market_natural
+Ecotoxicity,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),18.2,market_natural,market_natural
+Fossil fuel depletion,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),2.58,market_natural,market_natural
+Ozone depletion,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),1.09E-07,market_natural,market_natural_us
+Global warming,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),3.549631744,market_natural,market_natural_us
+Smog,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),0.236951085,market_natural,market_natural_us
+Acidification,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),0.016585627,market_natural,market_natural_us
+Eutrophication,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),0.016541031,market_natural,market_natural_us
+Carcinogenics,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),2.48E-07,market_natural,market_natural_us
+Non carcinogenics,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),1.49E-06,market_natural,market_natural_us
+Respiratory effects,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),0.004322592,market_natural,market_natural_us
+Ecotoxicity,natural_graphite_engels_et_al,Natural Graphite (Engels et al.),67.41916713,market_natural,market_natural_us

@@ -1,0 +1,30 @@
+{
+  "netl_commit": "71a3f6dd20ed36bfcea3ff64b5e27d117ca7adc5",
+  "flcac_commit": "48d19af11965994378e9febe0cca2d5822a0776d",
+  "traci_olca_mirror_commit": null,
+  "traci_mode": "lciafmt",
+  "traci_characterization_source": "EPA TRACI 2.1 workbook + EPA/FLCAC LCIAformatter FEDEFL mapping",
+  "climate_method": "IPCC AR6 GWP100",
+  "methane_treatment": "unqualified/fossil upstream methane GWP100=29.8; biogenic/non-fossil methane uses generic AR6 methane GWP100 from the pinned factor table",
+  "biogenic_co2_treatment": "biogenic/non-fossil CO2 GWP100=0 by project LCA bookkeeping convention; fossil/unqualified CO2=1",
+  "non_climate_method": "TRACI 2.1, FEDEFL UUID-mapped factors",
+  "impact_units": {
+    "climate change": "kg CO2-eq/MJ",
+    "acidification": "kg SO2-eq/MJ",
+    "eutrophication": "kg N-eq/MJ",
+    "ecotoxicity: freshwater": "CTUe/MJ",
+    "particulate matter formation": "kg PM2.5-eq/MJ",
+    "photochemical oxidant formation": "kg O3-eq/MJ"
+  },
+  "all_factors_per_MJ": true,
+  "carrier": "diesel",
+  "raw_inventory_dir": "netl/petroleum_inventory",
+  "regions": [
+    "DFO_1",
+    "DFO_2",
+    "DFO_3",
+    "DFO_4",
+    "DFO_5"
+  ],
+  "sha256": "2d23c5834d02781cbc3867e915461fd0dc183aa6140180356a89b2d1324270dd"
+}

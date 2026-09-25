@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper and this software/data release."
+title: "Biographite LCA-TEA-sLCC reproducibility and foreground data"
+type: software
+version: 1.0.0
+date-released: 2026-09-25
+authors:
+  - family-names: Wang
+    given-names: Hannah Szu-Han
+  - family-names: Gonzalez-Aguirre
+    given-names: Jose A.
+  - family-names: Park
+    given-names: Sunkyu
+  - family-names: Yao
+    given-names: Yuan
+preferred-citation:
+  type: article
+  title: "A Spatially Explicit Societal Life Cycle Cost Framework for Sustainable Bio-Graphite Production in the United States"
+  authors:
+    - family-names: Wang
+      given-names: Hannah Szu-Han
+    - family-names: Gonzalez-Aguirre
+      given-names: Jose A.
+    - family-names: Park
+      given-names: Sunkyu
+    - family-names: Yao
+      given-names: Yuan
+  year: 2026

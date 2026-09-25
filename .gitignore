@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+outputs/
+validation/_public_smoke/
+validation/_paper_replay/
+private_factor_bundle/
+*.zip
+.DS_Store

@@ -1,0 +1,52 @@
+state,electricity_region,diesel_region,natural_gas_region
+NM,US-WECC,DFO_3,San Juan
+SD,US-MRO,DFO_2,Anadarko
+CA,US-WECC,DFO_5,Uinta
+KY,US-SERC,DFO_2,Appalachian
+AL,US-SERC,DFO_3,Appalachian
+GA,US-SERC,DFO_1,Appalachian
+AR,US-SERC,DFO_3,Arkoma
+PA,US-RFC,DFO_1,Appalachian
+MO,US-SERC,DFO_2,Arkoma
+CO,US-WECC,DFO_4,Green River
+UT,US-WECC,DFO_4,Uinta
+OK,US-MRO,DFO_2,Anadarko
+TN,US-SERC,DFO_2,Appalachian
+WY,US-WECC,DFO_4,Green River
+NY,US-NPCC,DFO_1,Appalachian
+IN,US-RFC,DFO_2,Appalachian
+KS,US-MRO,DFO_2,Anadarko
+ID,US-WECC,DFO_4,Uinta
+AK,US-ASCC,DFO_5,Green River
+NV,US-WECC,DFO_5,Uinta
+IL,US-SERC,DFO_2,Arkoma
+VT,US-NPCC,DFO_1,Appalachian
+MN,US-MRO,DFO_2,Anadarko
+IA,US-MRO,DFO_2,Arkoma
+SC,US-SERC,DFO_1,Appalachian
+NH,US-NPCC,DFO_1,Appalachian
+DE,US-RFC,DFO_1,Appalachian
+DC,US-RFC,DFO_1,Appalachian
+CT,US-NPCC,DFO_1,Appalachian
+MI,US-RFC,DFO_2,Appalachian
+MA,US-NPCC,DFO_1,Appalachian
+FL,US-SERC,DFO_1,Appalachian
+NJ,US-RFC,DFO_1,Appalachian
+ND,US-MRO,DFO_2,Green River
+MD,US-RFC,DFO_1,Appalachian
+ME,US-NPCC,DFO_1,Appalachian
+HI,US-HICC,DFO_5,Uinta
+RI,US-NPCC,DFO_1,Appalachian
+MT,US-WECC,DFO_4,Green River
+AZ,US-WECC,DFO_5,San Juan
+NE,US-MRO,DFO_2,Anadarko
+WA,US-WECC,DFO_5,Green River
+TX,US-TRE,DFO_3,Gulf
+OH,US-RFC,DFO_2,Appalachian
+WI,US-MRO,DFO_2,Arkoma
+OR,US-WECC,DFO_5,Uinta
+MS,US-SERC,DFO_3,Arkla
+NC,US-SERC,DFO_1,Appalachian
+VA,US-SERC,DFO_1,Appalachian
+WV,US-RFC,DFO_1,Appalachian
+LA,US-SERC,DFO_3,Gulf
