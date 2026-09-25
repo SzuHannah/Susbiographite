@@ -1,4 +1,4 @@
-# Biographite LCA–TEA–sLCC reproducibility and reusable foreground data
+# Susbiographite
 
 This repository contains the publication-ready **foreground life-cycle inventory (LCI)**, **techno-economic analysis (TEA)** inputs, spatial price/mapping data, public regional fuel factors, executed reference notebooks, and a database-neutral interface for using **your own background emission factors**.
 
